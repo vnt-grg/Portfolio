@@ -8,7 +8,7 @@ const Projects = () => {
       <div className="md:flex flex-wrap justify-between">
         {
           projects.map((project, index) => (
-            <ProjectCard key={index} id={project.id} liveLink={project.liveLink || "null"} githubLink={project.githubLink || "null"} imageSrc={project.imagesrc} title={project.title} />
+            <ProjectCard key={index} id={project.id} liveLink={project.liveLink || "null"}  imageSrc={project.imagesrc} title={project.title} />
           ))
         }
       </div>
