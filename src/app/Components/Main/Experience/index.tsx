@@ -54,11 +54,11 @@ const Experience = () => {
               <br />
               <div className="timeline-text">
                 <ul>
-                  <li>Designed and developed efficient RESTful APIs to implement secure user authentication and authorization with JWT.</li>
-                  <li>Developed admin panel for seamless alumni profile, events, and news management.</li>
-                  <li>Integrated real-time content posting and dynamic alumni profile display for user engagement.</li>
-                  <li>Developed a responsive UI using React, ensuring optimal cross-device user experience.</li>
-                  <li>Utilized Express.js and MongoDB for efficient data handling, while deploying on AWS EC2 with NGINX and Cloudinary for image storage.</li>
+                  <li>Developed and maintained front-end web pages using HTML, CSS, and JavaScript</li>
+                  <li>Assisted in debugging and troubleshooting website issues to enhance user experience.</li>
+                  <li>Collaborated with the design team to implement responsive and visually appealing web layouts.</li>
+                  <li>Optimized website performance by improving loading speeds and reducing code redundancy.</li>
+                  <li>Participated in code reviews and contributed to team discussions on best practices and new technologies.</li>
                 </ul>
               </div>
             </li>
@@ -69,7 +69,7 @@ const Experience = () => {
           <div className="w-[90%] text-[#FAFAFA] bg-[#232325] mx-auto my-[1vh] md:my-[2vh] rounded-md py-4 px-4 md:px-10 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] border-[#303030] border-[1px]">
             <p className="mb-1">Top 3 in  2021-25 CSE-A</p>
             <p className="mb-1">Secured Scholarship worth 4.5 lakhs during graduation</p>
-            <p>Won gold medal in kabbadi in class 10th </p>
+            <p>Won gold medal in kabaddi in class 10th </p>
           </div>
         </div>
         <section className="timeline">

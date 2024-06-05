@@ -4,7 +4,7 @@ import "./style.css"
 import Skills from "./Skills";
 import Experience from "./Experience";
 import Projects from "./Projects";
-// import Contact from "./Contact";
+import Contact from "./Contact";
 
 
 const Main = () => {
@@ -28,7 +28,7 @@ const Main = () => {
       {selectedCard === "Skills" && <Skills />}
       {selectedCard === "Experience" && <Experience />}
       {selectedCard === "Projects" && <Projects />}
-      {/* {selectedCard === "Contact" && <Contact />} */}
+      {selectedCard === "Contact" && <Contact />}
     </div>
   );
 };

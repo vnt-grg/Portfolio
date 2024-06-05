@@ -24,7 +24,7 @@ const Sidebar = () => {
       </div>
       <div className="md:block flex w-[80%] justify-between md:w-full mx-auto">
         <div className="bg-[#383839] w-[30%] md:w-[65%] rounded-[10px] md:rounded-[35px] mx-auto md:mt-[7vh]">
-          <Image src="/profile.jpg" alt="Utkarsh Ahuja" width={200} height={200} />
+          <Image src="/vineetgarg.jpg" alt="VIneet Garg" width={200} height={200} />
         </div>
         <div className="w-[80%] md:w-full ">
           <div className="mx-auto w-[90%] rounded-lg tracking-wide py-[0.15rem] md:mt-[3vh]">
